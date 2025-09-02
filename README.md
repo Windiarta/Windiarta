@@ -41,13 +41,10 @@
 ### 🧠 **Sentra AI Knowledge Hub**  
 - **Description**: A fullstack app with **React**, **FastAPI**, and **PostgreSQL**, leveraging **CrewAI** and **Google Gemini** for intelligent document search and summarization.  
 - **Highlights**: Orchestrated AI using **RAG**, integrated Gemini for NLP tasks, and deployed on **GCP**.  
-- **Repo**: [Link to repo](#)  
 
 ### 🤖 **Pupuk Indonesia Intelligence Center**  
 - **Description**: A scalable application using **CrewAI**, **React.js**, and **Swagger** for API documentation to automate multi-agent AI workflows.  
 - **Highlights**: Designed modular AI agent pipelines, integrated with **PostgreSQL**, and deployed on **GCP**.  
-- **Repo**: [Link to repo](#)  
-
 ---
 
 ## 📊 GitHub Stats
